@@ -1,0 +1,3 @@
+import carta
+
+class Baralho:
